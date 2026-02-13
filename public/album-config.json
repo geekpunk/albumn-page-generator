@@ -1,0 +1,59 @@
+{
+  "albumName": "Your Album Name",
+  "artistName": "Your Artist Name",
+  "pageTitle": "Your Artist – Your Album",
+  "images": {
+    "front": "images/Album-Front.png",
+    "back": "images/Album-Back.png"
+  },
+  "colors": {
+    "primary": "#5B96C7",
+    "heroBackground": "#5B96C7",
+    "background": "#1a1a1a",
+    "text": "#e0e0e0"
+  },
+  "tracks": [
+    {
+      "side": "A",
+      "number": "A1",
+      "name": "First Track",
+      "duration": "3'30\"",
+      "file": "first_track.mp3",
+      "lyrics": "Your lyrics here\nUse backslash-n for line breaks\n\nDouble backslash-n for verse gaps"
+    },
+    {
+      "side": "A",
+      "number": "A2",
+      "name": "Second Track",
+      "duration": "2'45\"",
+      "file": "second_track.mp3",
+      "lyrics": null
+    },
+    {
+      "side": "B",
+      "number": "B1",
+      "name": "Third Track",
+      "duration": "4'15\"",
+      "file": "third_track.mp3",
+      "lyrics": null
+    }
+  ],
+  "credits": {
+    "paragraphs": [
+      "Written and performed by Your Artist Name.",
+      [
+        { "text": "Recorded at " },
+        { "text": "Studio Name", "url": "https://studio-website.com" },
+        { "text": " in City, State." }
+      ],
+      "Mastered by Engineer Name."
+    ]
+  },
+  "links": {
+    "bandcamp": "https://yourband.bandcamp.com/",
+    "instagram": "https://www.instagram.com/yourband",
+    "github": "https://github.com/yourusername/your-repo"
+  },
+  "footer": "Your footer text here.",
+  "downloadZip": "album.zip"
+}
