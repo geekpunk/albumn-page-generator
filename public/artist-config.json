@@ -1,0 +1,13 @@
+{
+  "artistName": "Your Artist Name",
+  "genres": ["genre1", "genre2"],
+  "city": "Your City",
+  "country": "Your Country",
+  "bio": "A short biography of the artist or band.",
+  "albums": [
+    {
+      "albumName": "Your Album Name",
+      "url": "https://yourusername.github.io/your-repo-name/"
+    }
+  ]
+}
