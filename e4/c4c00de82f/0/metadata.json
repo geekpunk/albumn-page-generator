@@ -1,0 +1,31 @@
+{
+  "cli_version": "0.4.3",
+  "checkpoint_id": "e4c4c00de82f",
+  "session_id": "0ba2f841-6805-4a8a-9637-f13361fcb3fb",
+  "strategy": "manual-commit",
+  "created_at": "2026-02-13T03:26:49.032745Z",
+  "branch": "main",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "public/artist.json"
+  ],
+  "agent": "Claude Code",
+  "transcript_identifier_at_start": "56535877-79d4-420c-85ea-83a67e36c909",
+  "token_usage": {
+    "input_tokens": 778,
+    "cache_creation_tokens": 83294,
+    "cache_read_tokens": 1180106,
+    "output_tokens": 5256,
+    "api_call_count": 25
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-02-13T03:26:48.76984Z",
+    "agent_lines": 7,
+    "human_added": 2527,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 2534,
+    "agent_percentage": 0.2762430939226519
+  },
+  "transcript_path": ".claude/projects/-Users-michaelwolf-Dev-albumn-page-generator/0ba2f841-6805-4a8a-9637-f13361fcb3fb.jsonl"
+}
